@@ -28,9 +28,9 @@ let etapas = [
                 ]
             },
             {
-                numero: '40111',
+                numero: '15000',
                 nome: 'ANANIAS BORGES',
-                partido: 'Partido Socicalista Brasileiro - PSB',
+                partido: 'Movimento Democrático Brasileiro - MDB',
                 fotos: [
                     {url:'ananias_borges.jpg', legenda: 'Vereador'}
                 ]
