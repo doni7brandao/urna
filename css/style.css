@@ -244,14 +244,14 @@ body{
         width: 50%;
     }
     .topo-esquerda {
-        width: 70%;
+        width: 50%;
     }
     .logo {
-        width: 25%;
-        padding: 10px;
+        width: 15%;
+        padding: 5px;
     }
     .Justica-eleitoral {
-        width: 25%;
-        padding: 10px;
+        width: 30%;
+        padding: 5px;
     }
 }
