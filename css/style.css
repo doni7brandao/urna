@@ -208,7 +208,9 @@ body{
         width: 40%;
     }
     .topo-esquerda {
-        width: 40%;
+        width: 45%;
+        margin-left: 5px;
+        height: 15px;
     }
     .logo {
         width: 20%;
