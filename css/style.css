@@ -225,7 +225,8 @@ body{
     .urna {
         width: 120%;
         padding: 5px;
-        min-width: 350px
+        min-width: 380px;
+        display: flex;
     }
     .tela {
         width: 50%;
