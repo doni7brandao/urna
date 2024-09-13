@@ -189,14 +189,14 @@ body{
 
 /* Estilos específicos para tablets e telas menores */
 @media (max-width: 768px) {
-    .container {
+    .urna {
         width: 90%;
     }
 }
 
 /* Estilos específicos para smartphones */
 @media (max-width: 480px) {
-    .container {
+    .urna {
         width: 100%;
         padding: 10px;
     }
