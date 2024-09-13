@@ -226,12 +226,12 @@ body{
         min-width: 420px;
     }
     .tela {
-        width: 50%;
+        width: 90%;
         padding: 10px;
         height: 250px;
     }
     .teclado {
-        width: 60%;
+        width: 70%;
         padding: 10px;
     }
     .botao--branco {
