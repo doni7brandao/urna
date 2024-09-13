@@ -4,291 +4,243 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: '55777',
+                numero: '13110',
+                nome: 'ADELSON ROCHA',
+                partido: 'Partido dos Trabalhadores - PT',
+                fotos: [
+                    {url:'adelson_rocha.jpg', legenda: 'Vereador'}
+                ]
+            },
+            {
+                numero: '12333',
                 nome: 'ADEUZERITA PACHECO',
-                partido: 'Partido Social Democrático - PSD',
+                partido: 'Partido Democrático Trabalhista - PDT',
                 fotos: [
                     {url:'adeuzerita.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '55222',
-                nome: 'ALDEIR NEGUINHA DO HOTEL',
-                partido: 'Partido Social Democrático-PSD',
-                fotos: [
-                    {url:'neguinha.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '40234',
-                nome: 'ALZIRA DO SELEDOME',
-                partido: 'Partido Socialista Brasileiro - PSB',
-                fotos: [
-                    {url:'alzira.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
                 numero: '15000',
-                nome: 'ANANIAS BORGES',
+                nome: 'ANANIAS',
                 partido: 'Movimento Democrático Brasileiro - MDB',
                 fotos: [
                     {url:'ananias_borges.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '55678',
-                nome: 'ANTÔNIO DO ANIZIO',
-                partido: 'Partido Social Democrático - PSD',
-                fotos: [
-                    {url:'antonio_do_anizio.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '11112',
-                nome: 'CARLENE DO MANTEGA',
-                partido: 'PROGRESSISTAS - PP',
-                fotos: [
-                    {url:'carlene.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '11555',
-                nome: 'CHINA',
-                partido: 'PROGRESSISTAS - PP',
-                fotos: [
-                    {url:'china.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '40789',
-                nome: 'CIÇO DA CONFIANÇA',
-                partido: 'Partido Socialista Brasileiro - PSB',
+                numero: '13444',
+                nome: 'CÍCERO DA CONFIANÇA',
+                partido: 'Partido dos Trabalhadores - PT',
                 fotos: [
                     {url:'cicero.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '40123',
-                nome: 'DIANA DO RAIMUNDO OINHO',
-                partido: 'Partido Socialista Brasileiro - PSB',
+                numero: '15123',
+                nome: 'CUMPADE COSMO',
+                partido: 'Movimento Democrático Brasileiro - MDB',
                 fotos: [
-                    {url:'diana.jpg', legenda: 'Vereador'}
+                    {url:'cumpade_cosmo.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '40222',
-                nome: 'DIONEI',
-                partido: 'Partido Socialista Brasileiro - PSB',
+                numero: '13123',
+                nome: 'DANDARA TAVARES',
+                partido: 'Partido dos Trabalhadores - PT',
+                fotos: [
+                    {url:'dandara.jpg', legenda: 'Vereador'}
+                ]
+            },
+            {
+                numero: '12777',
+                nome: 'DIONEI MENDES',
+                partido: 'Partido Democrático Trabalhista - PDT',
                 fotos: [
                     {url:'dionei.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '11111',
-                nome: 'FELIX MOTA',
-                partido: 'PROGRESSISTAS - PP',
+                numero: '12000',
+                nome: 'ERIVAN PIRULITO',
+                partido: 'Partido Democrático Trabalhista - PDT',
                 fotos: [
-                    {url:'felix_mota.jpg', legenda: 'Vereador'}
+                    {url:'erivan_pirulito.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '55555',
-                nome: 'FRANCIVALDO PEREIRA BICO',
-                partido: 'Partido Social Democrático - PSD',
+                numero: '13555',
+                nome: 'EVALDO GOMES',
+                partido: 'Partido dos Trabalhadores - PT',
                 fotos: [
-                    {url:'francivaldo.jpg', legenda: 'Vereador'}
+                    {url:'evaldo_gomes.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '55123',
+                numero: '13789',
                 nome: 'GENO PEREIRA',
-                partido: 'Partido Social Democrático - PSD',
+                partido: 'Partido dos Trabalhadores - PT',
                 fotos: [
                     {url:'geno_pereira.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '11123',
+                numero: '13222',
                 nome: 'HILTON ROCHA',
-                partido: 'PROGRESSISTAS - PP',
+                partido: 'Partido dos Trabalhadores - PT',
                 fotos: [
-                    {url:'hilton_rocha.jpg', legenda: 'Vereador'}
+                    {url:'hilton.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '55333',
-                nome: 'JANDIRA DO SINDICATO',
-                partido: 'Partido Social Democrático - PSD',
+                numero: '15333',
+                nome: 'JOYRA ENFERMEIRA',
+                partido: 'Movimento Democrático Brasileiro - MDB',
                 fotos: [
-                    {url:'jandira.jpg', legenda: 'Vereador'}
+                    {url:'joyra.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '40999',
-                nome: 'JARBINHA',
-                partido: 'Partido Socialista Brasileiro - PSB',
-                fotos: [
-                    {url:'jarbinha.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '11789',
-                nome: 'JOÃO PROFESSOR',
-                partido: 'PROGRESSISTAS - PP',
-                fotos: [
-                    {url:'joao_professor.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '11234',
-                nome: 'JOÃOZINHO DO RIACHÃO',
-                partido: 'PROGRESSISTAS - PP',
-                fotos: [
-                    {url:'joaozinho_do_riachao.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '11000',
+                numero: '13333',
                 nome: 'LEICIVALDO RIBEIRO',
-                partido: 'PROGRESSISTAS - PP',
+                partido: 'Partido dos Trabalhadores - PT',
                 fotos: [
                     {url:'leicivaldo.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '11666',
-                nome: 'MARIA DO SINDICATO',
-                partido: 'PROGRESSISTAS - PP',
+                numero: '12108',
+                nome: 'MARCOS VIEIRA',
+                partido: 'Partido Democrático Trabalhista - PDT',
                 fotos: [
-                    {url:'maria_do_sindicato.jpg', legenda: 'Vereador'}
+                    {url:'marcos_vieira.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '11222',
-                nome: 'MARIQUINHA DO NEGUIM',
-                partido: 'PROGRESSISTAS - PP',
+                numero: '15555',
+                nome: 'MARILENE ANDRADE',
+                partido: 'Movimento Democrático Brasileiro - MDB',
+                fotos: [
+                    {url:'marilene.jpg', legenda: 'Vereador'}
+                ]
+            },
+            {
+                numero: '13000',
+                nome: 'MARIQUINHA DO NEGUIN',
+                partido: 'Partido dos Trabalhadores - PT',
                 fotos: [
                     {url:'mariquinha.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '55111',
-                nome: 'MAYARA DO ANTONIO DA LIDIA',
-                partido: 'Partido Social Democrático - PSD',
-                fotos: [
-                    {url:'mayara.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '40000',
+                numero: '13111',
                 nome: 'MIRANDA',
-                partido: 'Partido Socialista Brasileiro - PSB',
+                partido: 'Partido dos Trabalhadores - PT',
                 fotos: [
                     {url:'miranda.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '11333',
-                nome: 'MORENA',
-                partido: 'PROGRESSISTAS - PP',
+                numero: '40111',
+                nome: 'NEGUINHA DO HOTEL',
+                partido: 'Partido Socialista Brasileiro - PSB',
                 fotos: [
-                    {url:'morena.jpg', legenda: 'Vereador'}
+                    {url:'neguinha.jpg', legenda: 'Vereador'}
+                ]
+            },
+            {
+                numero: '15111',
+                nome: 'OTINHA',
+                partido: 'Movimento Democrático Brasileiro - MDB',
+                fotos: [
+                    {url:'otinha.jpg', legenda: 'Vereador'}
+                ]
+            },
+            {
+                numero: '40000',
+                nome: 'PAULO DA CAÇAMBA',
+                partido: 'Partido Socialista Brasileiro - PSB',
+                fotos: [
+                    {url:'paulo_cacamba.jpg', legenda: 'Vereador'}
+                ]
+            },
+            {
+                numero: '15222',
+                nome: 'PEDRO DA OLÍVIA',
+                partido: 'Movimento Democrático Brasileiro - MDB',
+                fotos: [
+                    {url:'pedro_olivia.jpg', legenda: 'Vereador'}
                 ]
             },
             {
                 numero: '40555',
-                nome: 'PEDRO DO DJALMA',
+                nome: 'PESSOINHA',
                 partido: 'Partido Socialista Brasileiro - PSB',
                 fotos: [
-                    {url:'pedro_do_djalma.jpg', legenda: 'Vereador'}
+                    {url:'pessoinha.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '40444',
+                numero: '13456',
                 nome: 'PETRONILDA',
-                partido: 'Partido Socialista Brasileiro - PSB',
+                partido: 'Partido Dos Trabalhadores - PT',
                 fotos: [
                     {url:'petronilda.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '55000',
-                nome: 'RAIMUNDO BATISTA',
-                partido: 'Partido Social Democrático - PSD',
+                numero: '12123',
+                nome: 'ROBERTA SOUSA',
+                partido: 'Partido Democrático Trabalhista - PDT',
                 fotos: [
-                    {url:'raimundo_batista.jpg', legenda: 'Vereador'}
+                    {url:'roberta_sousa.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '55444',
+                numero: '12345',
+                nome: 'ROBERTO CAPITÃO',
+                partido: 'Partido Democrático Trabalhista - PDT',
+                fotos: [
+                    {url:'roberto_cap.jpg', legenda: 'Vereador'}
+                ]
+            },
+            {
+                numero: '12444',
                 nome: 'RODRIGO ROCHA',
-                partido: 'Partido Social Democrático - PSD',
+                partido: 'Partido Democrático Trabalhista - PDT',
                 fotos: [
-                    {url:'rodrigo_rocha.jpg', legenda: 'Vereador'}
+                    {url:'rodrigo.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '11115',
-                nome: 'RONALDO ATAIDE',
-                partido: 'PROGRESSISTAS - PP',
+                numero: '12222',
+                nome: 'TIARA LIS',
+                partido: 'Partido Democrático Trabalhista - PDT',
                 fotos: [
-                    {url:'ronaldo_ataide.jpeg', legenda: 'Vereador'}
+                    {url:'tiara_lis.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '40369',
-                nome: 'SALVADOR BILLEU',
-                partido: 'Partido Socialista Brasileiro - PSB',
+                numero: '15666',
+                nome: 'VALÉRIA DIAS',
+                partido: 'Movimento Democrático Brasileiro - MDB',
                 fotos: [
-                    {url:'salvador.jpg', legenda: 'Vereador'}
+                    {url:'valeria_dias.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '11444',
-                nome: 'SANDRO DO RETORNO',
-                partido: 'PROGRESSISTAS - PP',
-                fotos: [
-                    {url:'sandro.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '40456',
-                nome: 'VALDIR ABREU',
-                partido: 'Partido Socialista Brasileiro - PSB',
-                fotos: [
-                    {url:'valdir_abreu.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '40567',
-                nome: 'VERINHA',
-                partido: 'Partido Socialista Brasileiro - PSB',
-                fotos: [
-                    {url:'verinha.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '11345',
-                nome: 'XIOLA',
-                partido: 'PROGRESSISTAS - PP',
-                fotos: [
-                    {url:'xiola.jpg', legenda: 'Vereador'}
-                ]
-            },
-            {
-                numero: '55888',
+                numero: '12888',
                 nome: 'ZÉ FILHO',
-                partido: 'Partido Social Democrático - PSD',
+                partido: 'Partido Democrático Trabalhista - PDT',
                 fotos: [
                     {url:'ze_filho.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: '55666',
-                nome: 'ZÉ IVAN',
-                partido: 'Partido Social Democrático - PSD',
+                numero: '12111',
+                nome: 'ZULEIDE RIBEIRO',
+                partido: 'Partido Democrático Trabalhista - PDT',
                 fotos: [
-                    {url:'ze_ivan.jpg', legenda: 'Vereador'}
+                    {url:'zuleide.jpg', legenda: 'Vereador'}
                 ]
             },
         ]
@@ -299,32 +251,22 @@ let etapas = [
         candidatos: [
             {
                 numero:'40',
-                nome:'DR ZÉ LUIS',
+                nome:'OZIRES CASTRO',
                 partido:'Partido Socialista Brasileiro - PSB',
-                vice: 'MARILENE',
+                vice: 'ANTONIO DA LIDIA',
                 fotos:[
-                    {url:'dr_ze_luis.jpg', legenda: 'Prefeito'},
-                    {url:'marilene.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'ozires_castro.jpg', legenda: 'Prefeito'},
+                    {url:'antonio_da_lidia.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
-                numero:'55',
-                nome:'ALDI BORGES',
-                partido:'Partido Social Democrático - PSD',
-                vice: 'ZE HILTON MARTINS',
+                numero:'13',
+                nome:'DR ZÉ LUIS',
+                partido:'Partido dos Trabalhadores - PT',
+                vice: 'ALDI BORGES',
                 fotos:[
-                    {url:'aldi_borges.jpg', legenda: 'Prefeito'},
-                    {url:'ze_hilton.jpg', legenda: 'Vice-Prefeito', small: true}
-                ]
-            },
-            {
-                numero:'77',
-                nome:'JOEL DA PIZZARIA',
-                partido:'Solidariedade - SOLIDARIEDADE',
-                vice: 'GILMAR DO FRANGOSUL',
-                fotos:[
-                    {url:'joel.jpeg', legenda: 'Prefeito'},
-                    {url:'gilmar.jpeg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'dr_ze_luiz.jpg', legenda: 'Prefeito'},
+                    {url:'aldi_borges.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
         ]

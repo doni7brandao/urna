@@ -4,6 +4,8 @@
     100% {opacity: 0.2;}
 }
 
+/* Estilos gerais para dispositivos maiores */
+
 body{
     margin: 0;
     display: flex;
@@ -13,11 +15,14 @@ body{
     flex-direction: column;
 
 }
+
 .titulo {
     display: flex;
 }
 
 .urna {
+    width: 80%;
+    margin: 0 auto;
     background-color: #dbd5c9;
     padding: 30px;
     display: flex;
@@ -180,4 +185,19 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/* Estilos específicos para tablets e telas menores */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+}
+
+/* Estilos específicos para smartphones */
+@media (max-width: 480px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
 }
