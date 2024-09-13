@@ -201,6 +201,9 @@ body{
     .topo-esquerda {
         width: 40%;
     }
+    .logo {
+        width: 20%;
+    }
     .Justica-eleitoral {
         width: 20%;
     }
@@ -222,6 +225,10 @@ body{
     }
     .topo-esquerda {
         width: 50%;
+        padding: 10px;
+    }
+    .logo {
+        width: 25%;
         padding: 10px;
     }
     .Justica-eleitoral {
