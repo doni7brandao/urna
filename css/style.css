@@ -230,11 +230,11 @@ body{
         padding: 0;
     }
     .teclado {
-        width: 70%;
+        width: 50%;
         padding: 5px;
     }
     .teclado--botao {
-        width: 70%;
+        width: 50%;
         padding: 5px;
     }
     .botao--branco {
@@ -247,7 +247,7 @@ body{
         width: 33%;
     }
     .topo-esquerda {
-        width: 70%;
+        width: 50%;
     }
     .logo {
         width: 20%;
