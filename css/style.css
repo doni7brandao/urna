@@ -231,7 +231,7 @@ body{
         height: 250px;
     }
     .teclado {
-        width: 70%;
+        width: 50%;
         padding: 10px;
     }
     .botao--branco {
@@ -248,10 +248,8 @@ body{
     }
     .logo {
         width: 15%;
-        padding: 5px;
     }
     .Justica-eleitoral {
         width: 30%;
-        padding: 5px;
     }
 }
