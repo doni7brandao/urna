@@ -225,16 +225,15 @@ body{
     .urna {
         width: 120%;
         padding: 5px;
-        min-width: 380px;
-        display: flex;
+        min-width: 420px;
     }
     .tela {
         width: 50%;
         padding: 10px;
-        height: 150px;
+        height: 250px;
     }
     .teclado {
-        width: 50%;
+        width: 60%;
         padding: 10px;
     }
     .botao--branco {
