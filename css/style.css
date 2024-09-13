@@ -248,8 +248,10 @@ body{
     }
     .logo {
         width: 15%;
+        padding: 1px;
     }
     .Justica-eleitoral {
         width: 30%;
+        padding: 2px;
     }
 }
