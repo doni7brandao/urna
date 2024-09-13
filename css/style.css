@@ -192,12 +192,26 @@ body{
     .urna {
         width: 90%;
     }
+    .tela {
+        width: 40%;
+    }
+    .teclado {
+        width: 40%;
+    }
 }
 
 /* Estilos específicos para smartphones */
 @media (max-width: 480px) {
     .urna {
         width: 100%;
+        padding: 10px;
+    }
+    .tela {
+        width: 50%;
+        padding: 10px;
+    }
+    .teclado {
+        width: 50%;
         padding: 10px;
     }
 }
