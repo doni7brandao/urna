@@ -227,12 +227,11 @@ body{
     }
     .tela {
         width: 100%;
-        padding: 20px;
-        height: 250px;
+        padding: 0;
     }
     .teclado {
         width: 100%;
-        padding: 10px;
+        padding: 0;
     }
     .botao--branco {
         width: 33%;
@@ -247,11 +246,11 @@ body{
         width: 100%;
     }
     .logo {
-        width: 15%;
+        width: 50%;
         padding: 7px;
     }
     .Justica-eleitoral {
-        width: 15%;
+        width: 50%;
         padding: 7px;
     }
 }
