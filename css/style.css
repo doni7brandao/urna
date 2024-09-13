@@ -198,6 +198,10 @@ body{
     .teclado {
         width: 40%;
     }
+    }
+    .topo-esquerda {
+        width: 40%;
+    }
 }
 
 /* Estilos específicos para smartphones */
@@ -211,6 +215,10 @@ body{
         padding: 10px;
     }
     .teclado {
+        width: 50%;
+        padding: 10px;
+    }
+    .topo-esquerda {
         width: 50%;
         padding: 10px;
     }
