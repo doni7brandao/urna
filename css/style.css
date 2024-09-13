@@ -223,7 +223,7 @@ body{
 /* Estilos específicos para smartphones */
 @media (max-width: 480px) {
     .urna {
-        width: 100%;
+        width: 350px;
         padding: 5px;
     }
     .tela {
