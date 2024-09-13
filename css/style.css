@@ -226,8 +226,8 @@ body{
         min-width: 420px;
     }
     .tela {
-        width: 100%;
-        padding: 0;
+        width: 45%;
+        padding: 5px;
     }
     .teclado {
         width: 50%;
