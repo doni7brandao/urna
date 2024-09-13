@@ -199,7 +199,7 @@ body{
         width: 40%;
     }
     }
-    .topo-esquerda {
+    .topo-esquerda.Justica-eleitoral {
         width: 40%;
     }
 }
@@ -218,7 +218,7 @@ body{
         width: 50%;
         padding: 10px;
     }
-    .topo-esquerda {
+    .topo-esquerda.Justica-eleitoral {
         width: 50%;
         padding: 10px;
     }
