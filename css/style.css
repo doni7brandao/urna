@@ -222,7 +222,6 @@ body{
 @media (max-width: 480px) {
     .urna {
         width: 100%;
-        padding: 10px;
     }
     .tela {
         width: 50%;
