@@ -1,10 +1,11 @@
 {
-  "name": "Minha PWA",
-  "short_name": "PWA",
-  "start_url": "/",
+  "name": "Simulador de Urna Eletrônica",
+  "short_name": "Urna",
+  "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "orientation": "landscape",
+  "theme_color": "#162633",
+  "background_color": "#FFFFFF",
   "icons": [
     {
       "src": "icons/192x192.png",
@@ -18,3 +19,4 @@
     }
   ]
 }
+
