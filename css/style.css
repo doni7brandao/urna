@@ -198,6 +198,15 @@ body{
     .teclado {
         width: 40%;
     }
+    .botao--branco {
+        width: 40%;
+    }
+    .botao--corrige {
+        width: 40%;
+    }
+    .botao--confirma {
+        width: 40%;
+    }
     .topo-esquerda {
         width: 40%;
     }
@@ -220,6 +229,18 @@ body{
         padding: 10px;
     }
     .teclado {
+        width: 50%;
+        padding: 10px;
+    }
+    .botao--branco {
+        width: 50%;
+        padding: 10px;
+    }
+    .botao--corrige {
+        width: 50%;
+        padding: 10px;
+    }
+    .botao--confirma {
         width: 50%;
         padding: 10px;
     }
