@@ -223,8 +223,9 @@ body{
 /* Estilos específicos para smartphones */
 @media (max-width: 480px) {
     .urna {
-        width: 350px;
+        width: 120%;
         padding: 5px;
+        min-width: 350px
     }
     .tela {
         width: 50%;
