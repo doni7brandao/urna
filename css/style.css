@@ -231,20 +231,20 @@ body{
         height: 250px;
     }
     .teclado {
-        width: 70%;
+        width: 100%;
         padding: 10px;
     }
     .botao--branco {
-        width: 50%;
+        width: 33%;
     }
     .botao--corrige {
-        width: 50%;
+        width: 33%;
     }
     .botao--confirma {
-        width: 50%;
+        width: 33%;
     }
     .topo-esquerda {
-        width: 50%;
+        width: 100%;
     }
     .logo {
         width: 15%;
