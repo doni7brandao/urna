@@ -7,7 +7,7 @@ if ('serviceWorker' in navigator && (window.location.protocol === 'https:' || wi
       registration.update();
     }
   }).catch(function(e) {
-    console.error('Error during service worker registration:', e);
+    console.error('Erro durante o registro do service worker:', e);
   });
   
 }
